@@ -1,4 +1,4 @@
-![Screenshot](http://abhisekdutta.s3.amazonaws.com/s3_upload_screenshot.png)
+![Screenshot](s3_upload_screenshot.png)
 
 ZenS3 is a simple ajax upload interface for Amazon's Simple Storage Service. It is meant for those who want to **share files quickly using S3**. It is built on top of Twitter's [Bootstrap](https://github.com/twitter/bootstrap) and [Amazon S3 PHP Class](https://github.com/tpyo/amazon-s3-php-class). The awesome [SWFUpload](http://swfupload.org) library handles the AJAX uploads.
 ### Installation
